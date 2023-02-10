@@ -1,0 +1,62 @@
+// Level 2
+
+// // Task1
+// console.log(
+//   "The quote 'There is no exercise better for the heart than reaching down and lifting people up.' by John Holmes teaches us to help one another."
+// );
+
+// // Task3
+// var o = '10';
+// if(o === 10){
+//     console.log('ededler eynidir');
+// } else {
+//     let x = Number(o);
+//     console.log(typeof x);
+// }
+
+// // Task4
+// var i = 9.8;
+// if(parseFloat(i) == 10){
+//     console.log("");
+// } else {
+//     console.log("n");
+//     i = 10;
+// }
+
+// // Task5
+// var j = 'jarqon';
+// var p = 'python';
+
+// console.log(j.includes('on'),'hello from jarqon')
+// console.log(p.includes('on'),'hello from python')
+
+// // Task6
+
+// var j = 'I hope this course is not full of jargon';
+// console.log(j.includes('jargon'))
+
+// // Task7
+// var a = Math.floor(Math.random()*101);
+// console.log(a);
+
+// // Task8
+// console.log(Math.floor(Math.random()*(101-50) + 50));
+
+// // Task9
+// console.log(Math.floor(Math.random()*255));
+
+// // Task10
+// var x = 'JavaScript';
+// console.log(x[Math.floor(Math.random()*9)]);
+
+// // Task11
+// console.log (`
+// 1 1 1 1 1
+// 2 1 2 4 8
+// 3 1 3 9 27
+// 4 1 4 16 64
+// 5 1 5 25 125`)
+
+// // Task12
+// // var c = "You cannot end a sentence with because because because is a conjunction";
+// console.log(c.substring(31,54));

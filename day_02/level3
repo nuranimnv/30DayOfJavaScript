@@ -1,0 +1,13 @@
+// // Task1
+// let a =
+//   "Love is the best thing in this world. Some found their love and some are still looking for their love.";
+// function wordCount(a) {
+//   return a.split(" ").length;
+// }
+
+// console.log(wordCount("love"));/
+
+// // Task2
+// let str =
+//   "You cannot end a sentence with because because because is a conjunction";
+// console.log(str.match('because'));
